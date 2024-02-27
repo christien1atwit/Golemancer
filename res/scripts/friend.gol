@@ -1,0 +1,9 @@
+name-friend.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=5
+moveLeft
+pickUp
+moveRight
+dropItem
+moveRight

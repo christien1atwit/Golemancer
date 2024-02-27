@@ -1,0 +1,16 @@
+name-final.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=12
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+moveLeft
+endLayPath

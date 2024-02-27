@@ -1,0 +1,13 @@
+name-PathMakeGol.gol
+SCRIPTLEN=2
+LABEL-Main
+LABLEN=6
+senseItem
+pickUp
+onPathMOVEONPATH
+orientToPath
+moveForward
+onPathMOVEONPATH
+LABEL-MOVEONPATH
+LABLEN=1
+backFollow

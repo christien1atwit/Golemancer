@@ -1,0 +1,12 @@
+name-key.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=8
+moveUp
+pickUp
+moveUp
+moveUp
+useItem
+moveUp
+moveUp
+moveUp

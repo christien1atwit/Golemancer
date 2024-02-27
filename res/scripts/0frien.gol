@@ -1,0 +1,12 @@
+name-0frien.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=8
+moveUp
+moveRight
+moveRight
+moveRight
+pickUp
+moveDown
+dropItem
+moveLeft

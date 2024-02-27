@@ -1,0 +1,16 @@
+name-keys.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=12
+moveRight
+moveRight
+moveUp
+moveUp
+moveUp
+pickUp
+moveRight
+moveRight
+moveUp
+useItem
+moveUp
+moveUp

@@ -1,0 +1,11 @@
+name-broken.gol
+SCRIPTLEN=2
+LABEL-Main
+LABLEN=3
+moveDown
+jumpToSCMOOVE
+moveDown
+LABEL-SCMOOVE
+LABLEN=2
+moveUp
+jumpToSCMOOVE

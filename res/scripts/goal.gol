@@ -1,0 +1,5 @@
+name-goal.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=1
+moveRight

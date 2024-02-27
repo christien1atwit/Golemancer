@@ -1,0 +1,17 @@
+name-getToRock.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=13
+moveDown
+moveDown
+moveDown
+moveRight
+moveRight
+moveRight
+moveRight
+moveUp
+moveUp
+moveUp
+endLayPath
+faceE
+attack

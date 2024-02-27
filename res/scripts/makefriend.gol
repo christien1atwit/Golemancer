@@ -1,0 +1,10 @@
+name-makefriend.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=6
+moveRight
+moveRight
+pickUp
+moveDown
+dropItem
+startLayPath

@@ -1,0 +1,13 @@
+name-makeascript.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=9
+moveUp
+moveUp
+moveUp
+moveUp
+moveDown
+moveDown
+moveDown
+moveLeft
+moveLeft

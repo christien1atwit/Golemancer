@@ -1,0 +1,11 @@
+name-DownUpChase.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=7
+moveUp
+moveUp
+moveDown
+moveDown
+moveDown
+moveDown
+moveDown

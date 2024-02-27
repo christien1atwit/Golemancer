@@ -1,0 +1,11 @@
+name-backtoBase.gol
+SCRIPTLEN=2
+LABEL-Main
+LABLEN=3
+onPathONTHEPATH
+orientToPath
+moveForward
+LABEL-ONTHEPATH
+LABLEN=2
+backFollow
+jumpToMain

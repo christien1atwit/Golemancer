@@ -1,0 +1,8 @@
+name-equip.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=4
+pickUp
+useItem
+faceS
+attack

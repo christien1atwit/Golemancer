@@ -1,0 +1,12 @@
+name-startLaying.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=8
+startLayPath
+moveUp
+moveUp
+moveUp
+moveUp
+moveUp
+moveUp
+moveUp

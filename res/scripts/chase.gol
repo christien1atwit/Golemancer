@@ -1,0 +1,15 @@
+name-chase.gol
+SCRIPTLEN=1
+LABEL-Main
+LABLEN=11
+moveUp
+moveUp
+moveDown
+moveDown
+moveDown
+moveDown
+moveRight
+moveRight
+moveRight
+moveDown
+moveDown
