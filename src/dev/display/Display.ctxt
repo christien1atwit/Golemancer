@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Display
+comment1.params=title\ width\ height
+comment1.target=Display(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ createDisplay()
+numComments=3
